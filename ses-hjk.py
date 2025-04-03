@@ -1,4 +1,3 @@
-
 import requests
 
 target_url = 'http://example.com'   # Target URL you can do whatever you want with it
